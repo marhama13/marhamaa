@@ -4,3 +4,5 @@ pandas
 plotly
 numpy
 seaborn
+tensorflow
+scikit-learn
