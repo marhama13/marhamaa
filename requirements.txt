@@ -8,3 +8,4 @@ tensorflow
 scikit-learn
 pipeline
 transformers
+torch
