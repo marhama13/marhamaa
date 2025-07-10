@@ -7,9 +7,7 @@ Original file is located at
     https://colab.research.google.com/drive/1dfBTZS5tNauCwFBrDQLVlHJZ49N6kk-M
 """
 
-pip install transformers
 
-pip install torch
 
 # Cell: Text Classification into Custom Categories
 
