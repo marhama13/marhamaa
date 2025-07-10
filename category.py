@@ -3,6 +3,8 @@ from transformers import pipeline
 import pandas as pd
 import plotly.express as px
 import time
+import torch
+
 
 # Set page config
 st.set_page_config(
