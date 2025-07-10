@@ -6,3 +6,4 @@ numpy
 seaborn
 tensorflow
 scikit-learn
+pipeline
