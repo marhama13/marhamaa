@@ -10,3 +10,7 @@ pipeline
 transformers
 torch
 tf-keras
+diffusers
+accelerate
+safetensors
+Pillow
