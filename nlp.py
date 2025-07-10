@@ -46,7 +46,7 @@ print("Scores:", dict(zip(result['labels'], result['scores'])))
 # print("Scores:", dict(zip(result['labels'], result['scores'])))
 # create a gardio
 
-!pip install -q gradio
+
 import gradio as gr
 
 # Define the prediction function
@@ -106,7 +106,7 @@ plt.show()
 # plt.show()
 # create a gardio
 
-!pip install gradio -q
+
 
 import gradio as gr
 import torch
@@ -185,7 +185,7 @@ for entity in ner_results:
 #     print(f"{entity['word']} → {entity['entity_group']} ({entity['score']:.2f})")
 # create a gardio
 
-!pip install -q gradio
+
 
 import gradio as gr
 
