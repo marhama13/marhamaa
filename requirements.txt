@@ -9,3 +9,4 @@ scikit-learn
 pipeline
 transformers
 torch
+tf-keras
